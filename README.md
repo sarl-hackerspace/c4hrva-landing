@@ -3,7 +3,7 @@ http://www.codefornova.org
 
 FUTURE Landing page for *Code for Northern Virginia (NoVA)*
 
-Note that branch `gh-pages` is what shows on production codeforhamptonroads.org. Master does nothing.
+Note that branch `gh-pages` is what shows on production codefornova.org. Master does nothing.
 
 #How to Code for this Repo
 Option A: Fork, Edit, then Pull Request when ready.
