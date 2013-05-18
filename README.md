@@ -1,7 +1,7 @@
 http://www.codefornova.org
 ===================
 
-FUTURE Landing page for *Code for Northern Virginia (NoVA)*
+Landing page for *Code for Northern Virginia (NoVA)*
 
 Note that branch `gh-pages` is what shows on production codefornova.org. Master does nothing.
 
